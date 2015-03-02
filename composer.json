@@ -9,10 +9,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "xi/filelib": "v0.7.0.x-dev",
-        "symfony/event-dispatcher": "2.2.*",
-        "symfony/http-foundation": "2.2.*",
-        "symfony/form": "2.2.*"
+        "xi/filelib": "v0.12.x-dev",
+        "symfony/event-dispatcher": "2.3.*",
+        "symfony/http-foundation": "2.3.*",
+        "symfony/form": "2.3.*"
     },
     "autoload": {
         "psr-0": {
