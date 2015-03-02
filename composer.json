@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "xi/filelib": "v0.12.x-dev",
+        "xi/filelib": "v0.6.x-dev",
         "symfony/event-dispatcher": "2.3.*",
         "symfony/http-foundation": "2.3.*",
         "symfony/form": "2.3.*"
